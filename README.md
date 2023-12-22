@@ -1,2 +1,2 @@
 # databricks
-Databricks Projects
+This repo contains various Databricks Projects.
